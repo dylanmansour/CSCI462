@@ -1,1 +1,9 @@
 C:\Users\posey\Desktop\Changeover_462\Changeover_462\bin\Debug\Changeover_462.exe.config
+C:\Users\posey\Desktop\Changeover_462\Changeover_462\bin\Debug\Changeover_462.exe
+C:\Users\posey\Desktop\Changeover_462\Changeover_462\bin\Debug\Changeover_462.pdb
+C:\Users\posey\Desktop\Changeover_462\Changeover_462\obj\Debug\Changeover_462.csprojResolveAssemblyReference.cache
+C:\Users\posey\Desktop\Changeover_462\Changeover_462\obj\Debug\Changeover_462.Form1.resources
+C:\Users\posey\Desktop\Changeover_462\Changeover_462\obj\Debug\Changeover_462.Properties.Resources.resources
+C:\Users\posey\Desktop\Changeover_462\Changeover_462\obj\Debug\Changeover_462.csproj.GenerateResource.Cache
+C:\Users\posey\Desktop\Changeover_462\Changeover_462\obj\Debug\Changeover_462.exe
+C:\Users\posey\Desktop\Changeover_462\Changeover_462\obj\Debug\Changeover_462.pdb
