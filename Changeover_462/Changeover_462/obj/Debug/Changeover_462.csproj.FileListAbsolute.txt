@@ -7,3 +7,12 @@ C:\Users\posey\Desktop\Changeover_462\Changeover_462\obj\Debug\Changeover_462.Pr
 C:\Users\posey\Desktop\Changeover_462\Changeover_462\obj\Debug\Changeover_462.csproj.GenerateResource.Cache
 C:\Users\posey\Desktop\Changeover_462\Changeover_462\obj\Debug\Changeover_462.exe
 C:\Users\posey\Desktop\Changeover_462\Changeover_462\obj\Debug\Changeover_462.pdb
+D:\git\CSCI462_CO\Changeover_462\Changeover_462\bin\Debug\Changeover_462.exe.config
+D:\git\CSCI462_CO\Changeover_462\Changeover_462\obj\Debug\Changeover_462.exe
+D:\git\CSCI462_CO\Changeover_462\Changeover_462\obj\Debug\Changeover_462.pdb
+D:\git\CSCI462_CO\Changeover_462\Changeover_462\bin\Debug\Changeover_462.exe
+D:\git\CSCI462_CO\Changeover_462\Changeover_462\bin\Debug\Changeover_462.pdb
+D:\git\CSCI462_CO\Changeover_462\Changeover_462\obj\Debug\Changeover_462.csprojResolveAssemblyReference.cache
+D:\git\CSCI462_CO\Changeover_462\Changeover_462\obj\Debug\Changeover_462.Form1.resources
+D:\git\CSCI462_CO\Changeover_462\Changeover_462\obj\Debug\Changeover_462.Properties.Resources.resources
+D:\git\CSCI462_CO\Changeover_462\Changeover_462\obj\Debug\Changeover_462.csproj.GenerateResource.Cache
